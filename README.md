@@ -2,6 +2,8 @@
 # 💫 About Me:
 Software Engineering Student<br>Hiring for personal projects only
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanmahmuddev&label=Profile%20views&color=0e75b6&style=flat" alt="adnanmahmuddev" /> </p>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adnan.maarley) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adna_n_marley) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-mahmud-02a93b1b3) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/adnanthegoodboy/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Adnan-marley) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/adnan_marley) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saifmahmudadnan) 
@@ -18,6 +20,6 @@ Software Engineering Student<br>Hiring for personal projects only
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdnanMahmuddev&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMahmuddev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanmahmuddev&label=Profile%20views&color=0e75b6&style=flat" alt="adnanmahmuddev" /> </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
